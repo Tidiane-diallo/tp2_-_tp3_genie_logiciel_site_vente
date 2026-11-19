@@ -40,7 +40,7 @@ export default function Connexion() {
 
       <form className="carte" onSubmit={soumettre}>
         <Champ id="courriel" libelle="Adresse courriel" type="email" requis autoComplete="email"
-          defaultValue="tidiane.diallo@exemple.ca" />
+          defaultValue="amadoutidiane@uqar.ca" />
         <Champ id="mdp" libelle="Mot de passe" type="password" requis autoComplete="current-password"
           defaultValue="motdepasse" />
         <button className="btn btn--primaire btn--bloc">Se connecter</button>

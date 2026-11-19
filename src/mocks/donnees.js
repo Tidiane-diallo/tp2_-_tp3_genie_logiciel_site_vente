@@ -102,7 +102,7 @@ const p = (id) => produits.find((x) => x.id === id);
 export const client = {
   id: 1,
   nom: 'Amadou Tidiane Diallo',
-  courriel: 'tidiane.diallo@exemple.ca',
+  courriel: 'amadoutidiane@uqar.ca',
   telephone: '418 555-0142',
 };
 
